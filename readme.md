@@ -58,7 +58,7 @@ The implementation is provided in the Python script `notebook.ipynb`.
 ## 5. Usage
 
 1. Clone this repository.
-2. Run `Modified_TOPSIS_Text_Generation_Model_Selection.ipynb` in Jupyter Notebook.
+2. Run `notebook.ipynb` in Jupyter Notebook.
 3. Modify the dataset to evaluate different models.
 
 ## 6. Conclusion
